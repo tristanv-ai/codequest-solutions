@@ -9,7 +9,7 @@ The solutions are organized by difficulty level:
 - **Hard:** Solutions to the hardest problems  
 
 Each file is named after the problem title (as provided in the contest) with `_solution` appended.  
-For example: `CalculatOR_solution.py`.
+For example: `calculator_solution.py`.
 
 ---
 
