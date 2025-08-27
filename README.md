@@ -1,4 +1,7 @@
-# codequest-solutions
-My completed Code Quest Competition and Code Quest Academy solutions.
+# CodeQuest Solutions
 
-This repo contains my CodeQuest Academy solutions organized by difficulty. Problem statements are omitted to respect Lockheed Martin’s IP. Starter templates may appear in some files.
+## Overview
+This repository contains my completed CodeQuest Academy and Code Quest competition solutions.  
+The solutions are organized by difficulty level:
+
+
